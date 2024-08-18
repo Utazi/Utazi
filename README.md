@@ -1,4 +1,4 @@
-**Hi, I’m Stella Utazi**
+## **Hi, I’m Stella Utazi**
 - A passionate Data Analyst with 5+ years of experience in transforming complex datasets into actionable insights. My journey has taken me from financial services to tech, equipping me with a unique perspective on data's role in various industries.
 - 🌱 Continuously expanding my skills in Python, and advanced statistical techniques.
 - 💡 Experienced in handling large datasets and creating impactful visualizations with Power BI and Tableau.
@@ -7,7 +7,7 @@
 - 🚀 Open to exciting Data Analyst roles that push the boundaries of what data can achieve.
 
 
-🛠 **Tech Stack**
+## 🛠 **Tech Stack**
 - Canva | Python | SQL | Excel | Power BI | Tableau | Git
 
 - 📫 How to reach me {LinkedIn}(https://www.linkedin.com/in/stella-utazi-aca-58555311a) 
